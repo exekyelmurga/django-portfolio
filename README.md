@@ -19,3 +19,12 @@ py -m pip install requests
 ```bash
 python manage.py runserver    
 ```  
+## Admin section
+
+
+```bash
+http://127.0.0.1:8000/admin
+
+username: ezequielabril15
+password: murgapereyra1
+```
